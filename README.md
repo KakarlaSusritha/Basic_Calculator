@@ -11,7 +11,9 @@ https://github.com/codeWithCal/KotlinCalculator
 Basic Learning:
 1. Change shape of buttons
 2. Allign buttons in linear layout
-3. Implementing each function without any errors
+3. Used weight to distribute space
+4. Implementing each function without any errors
+   
 
 Preview:
 
